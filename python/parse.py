@@ -2,7 +2,7 @@ import re
 import time
 import serial
 
-# Update to match your port ('COM3', 'COM4' on Windows; '/dev/ttyUSB0', '/dev/ttyACM0' on Linux/Mac)
+# Update to match your port
 PORT = "COM3"
 BAUDRATE = 115200
 
