@@ -5,8 +5,8 @@ import queue
 import customtkinter as ctk
 from parse import parse_mpu6050
 
-PORT = "COM3"
-BAUDRATE = 115200
+PORT = "COM4"     
+BAUDRATE = 9600   
 
 # Define tuning params for different exercises
 EXERCISE_PROFILES = {
