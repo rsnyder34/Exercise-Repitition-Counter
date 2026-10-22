@@ -3,8 +3,9 @@ import time
 import serial
 
 # Update to match your port
-PORT = "COM3"
-BAUDRATE = 115200
+PORT = "COM4"     
+BAUDRATE = 9600   
+
 
 # Regex patterns matching your Arduino Serial output format
 ACCEL_REGEX = re.compile(
