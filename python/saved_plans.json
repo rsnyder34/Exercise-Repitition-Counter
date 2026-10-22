@@ -1,0 +1,74 @@
+{
+    "example": [
+        {
+            "exercise": "Bicep Curls (Standard)",
+            "target": 10
+        },
+        {
+            "exercise": "Squats (Slow/Heavy)",
+            "target": 20
+        },
+        {
+            "exercise": "Kettlebell Swings (Explosive)",
+            "target": 25
+        }
+    ],
+    "new workout": [
+        {
+            "exercise": "Bicep Curls (Standard)",
+            "target": 20
+        },
+        {
+            "exercise": "Kettlebell Swings (Explosive)",
+            "target": 25
+        },
+        {
+            "exercise": "Push-ups (Bodyweight)",
+            "target": 30
+        },
+        {
+            "exercise": "Running (Waist/Pocket)",
+            "target": 2000
+        }
+    ],
+    "Ryan's Workout": [
+        {
+            "exercise": "Running",
+            "target": 4000
+        },
+        {
+            "exercise": "Push-ups",
+            "target": 40
+        },
+        {
+            "exercise": "Kettlebell Swings",
+            "target": 25
+        },
+        {
+            "exercise": "Bicep Curls",
+            "target": 25
+        }
+    ],
+    "Ryan's routine": [
+        {
+            "exercise": "Running",
+            "target": 5000
+        },
+        {
+            "exercise": "Push-ups",
+            "target": 50
+        },
+        {
+            "exercise": "Squats",
+            "target": 50
+        },
+        {
+            "exercise": "Kettlebell Swings",
+            "target": 25
+        },
+        {
+            "exercise": "Walking",
+            "target": 2500
+        }
+    ]
+}
