@@ -3,12 +3,12 @@ import json
 import os
 
 AVAILABLE_EXERCISES = [
-    "Bicep Curls",
-    "Squats",
-    "Kettlebell Swings",
-    "Push-ups",
-    "Walking",
-    "Running"
+    "Bicep Curls (Standard)",
+    "Squats (Slow/Heavy)",
+    "Kettlebell Swings (Explosive)",
+    "Push-ups (Bodyweight)",
+    "Walking (Waist/Pocket)",
+    "Running (Waist/Pocket)"
 ]
 
 FILE_PATH = "saved_plans.json"
